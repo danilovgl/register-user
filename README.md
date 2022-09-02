@@ -5,8 +5,8 @@
 
 
 
-<img src="./assents/print.png.png" widht="150px" alt="print-project">
-<img src="./assents/print.png.png" widht="150px" alt="print-project">
+<img src="./user-register-1.png" widht="150px" alt="print-project">
+<img src="user-register-1.png" widht="150px" alt="print-project">
 
 >Resultado do Register User.
 
@@ -21,7 +21,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="#Register User">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Danilo Vieira"/><br>
         <sub>
           <b>Danilo Vieira</b>
