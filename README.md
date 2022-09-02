@@ -6,7 +6,7 @@
 
 
 <img src="./user-register-1.png" widht="150px" alt="print-project">
-<img src="user-register-1.png" widht="150px" alt="print-project">
+<img src="user-register-2.png" widht="150px" alt="print-project">
 
 >Resultado do Register User.
 
